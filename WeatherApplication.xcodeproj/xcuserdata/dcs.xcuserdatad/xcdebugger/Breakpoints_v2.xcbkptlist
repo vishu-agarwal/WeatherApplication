@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/ApiHandler.swift"
+            timestampString = "648374211.590233"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "searchCity(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/ApiHandler.swift"
+            timestampString = "648374211.590294"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "searchCity(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/ApiHandler.swift"
+            timestampString = "648374211.590333"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "searchCity(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/Weathervc.swift"
+            timestampString = "648374211.590372"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "Weathervc"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.Weathervc.(cityarray in _E7B154092F606CE921CD1A713D37788B).getter : Swift.Array&lt;WeatherApplication.Citydetail&gt;"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/GitHub/WeatherApplication/WeatherApplication/Weathervc.swift"
+                  timestampString = "648372978.754757"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.Weathervc.(cityarray in _E7B154092F606CE921CD1A713D37788B).setter : Swift.Array&lt;WeatherApplication.Citydetail&gt;"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/GitHub/WeatherApplication/WeatherApplication/Weathervc.swift"
+                  timestampString = "648372978.757723"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.Weathervc.(cityarray in _E7B154092F606CE921CD1A713D37788B).modify : Swift.Array&lt;WeatherApplication.Citydetail&gt;"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/GitHub/WeatherApplication/WeatherApplication/Weathervc.swift"
+                  timestampString = "648372978.760445"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.Weathervc.(cityarray in _E7B154092F606CE921CD1A713D37788B).modify : Swift.Array&lt;WeatherApplication.Citydetail&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/GitHub/WeatherApplication/WeatherApplication/Weathervc.swift"
+                  timestampString = "648372978.7632101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.Weathervc.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; WeatherApplication.Weathervc"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/GitHub/WeatherApplication/WeatherApplication/Weathervc.swift"
+                  timestampString = "648372978.766044"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "185">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.Weathervc.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;WeatherApplication.Weathervc&gt;"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dcs/Documents/GitHub/WeatherApplication/WeatherApplication/Weathervc.swift"
+                  timestampString = "648372978.768767"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "98">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/Weathervc.swift"
+            timestampString = "648374211.590809"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
